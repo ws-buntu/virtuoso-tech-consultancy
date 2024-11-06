@@ -1,1 +1,2 @@
-# virtuoso-tech-consultancy
+# virtuosotechconsultancy
+ blogging on technology 
