@@ -5,9 +5,11 @@
 }
 #header{
     height: 100vh;
-    background-image: URL(images/bg.jpg);
+    background-image: url("/images/bg.png");
     background-position: center;
     background-size: cover;
+    background-color: rgba(10, 200, 85, .5);
+    background-repeat: no-repeat;
     color: #fff;
 }
 .container{
@@ -50,7 +52,7 @@ p{
     color: #777;
 }
 p.text-primary{
-    color: aqua;
+    color: #bb3601;
 }
 .header-text button{
     margin-top: 20px;
